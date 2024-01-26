@@ -4,7 +4,7 @@ _The manuscript this repository has been published here: [https://doi.org/10.110
 
 This directory contains scripts and files supporting the publication: </br>
 
-[Funk _et al._]([https://www.sciencedirect.com/science/article/pii/S1534580723006111]), 2023, **Aged intestinal stem cells propagate cell-intrinsic sources of inflammaging in mice**, _[http://biorxiv.org/lookup/doi/10.1101/2021.12.19.473357](https://www.sciencedirect.com/science/article/pii/S1534580723006111) (2023) doi:10.1101/2021.12.19.473357_
+[Funk _et al._]([https://www.sciencedirect.com/science/article/pii/S1534580723006111]), 2023, **Aged intestinal stem cells propagate cell-intrinsic sources of inflammaging in mice**, _[https://www.sciencedirect.com/science/article/pii/S1534580723006111](https://www.sciencedirect.com/science/article/pii/S1534580723006111) (2023) doi:10.1101/2021.12.19.473357_
 
 ## Abstract
 
