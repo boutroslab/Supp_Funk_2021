@@ -6,9 +6,10 @@ Description: Provide helper functions for single cell analysis and define depend
 Depends: R (>= 3.5),
   schelpr
 Remotes:
-  jan-glx/analysismaker,
+  jan-glx/analysismaker@master,
   jan-glx/schelpr,
   dgrtwo/ebbr,
+  cvarrichio/Matrix.utils,
   const-ae/glmGamPoi
 Imports: 
   analysismaker,
