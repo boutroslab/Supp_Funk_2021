@@ -8,7 +8,7 @@ Depends: R (>= 3.5),
 Remotes:
   jan-glx/analysismaker@master,
   jan-glx/schelpr,
-  dgrtwo/ebbr,
+  jan-glx/ebbr,
   cvarrichio/Matrix.utils,
   const-ae/glmGamPoi
 Imports: 
